@@ -2,24 +2,24 @@
 
 Soy estudiante de la Universidad Nacional de Colombia; actualmente culminanro el pregrado en Ingeniería de Sistemas y Computación.
 
-Bienvenido a mi página de GitHub!! :boom:
+Bienvenido a mi página de GitHub!!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mis intereses
+Mis intereses son una lista de diversos temas que varían entre hobbys, del ámbito académico y profesional.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Intereses!
 
-- Bulleted
-- List
+var languages = ["Java", "Javascript", "Python", "C++", "C", "Ruby"];
 
-1. Numbered
-2. List
+console.log("My favorite languages are: ");
+languages.forEach(
+  function(i){
+    console.log(i);
+  }
+);
+
 
 **Bold** and _Italic_ and `Code` text
 
