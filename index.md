@@ -11,15 +11,15 @@ Mis intereses son una lista de diversos temas que varían entre hobbys, del ámb
 
 # Intereses!
 
-var languages = ["Java", "Javascript", "Python", "C++", "C", "Ruby"];
+`var languages = ["Java", "Javascript", "Python", "C++", "C", "Ruby"];`
 
-console.log("My favorite languages are: ");
+`console.log("My favorite languages are: ");
 languages.forEach(
   function(i){
     console.log(i);
   }
 );
-
+`
 
 **Bold** and _Italic_ and `Code` text
 
