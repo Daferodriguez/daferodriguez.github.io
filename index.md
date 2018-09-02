@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## David Felipe Rodríguez Rodríguez
 
-You can use the [editor on GitHub](https://github.com/Daferodriguez/daferodriguez.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Soy estudiante de la Universidad Nacional de Colombia; actualmente culminanro el pregrado en Ingeniería de Sistemas y Computación.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bienvenido a mi página de GitHub!! :boom:
 
 ### Markdown
 
