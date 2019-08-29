@@ -15,11 +15,10 @@ Soy estudiante de la Universidad Nacional de Colombia; actualmente culminanro el
   - Javascript
   
 ### Entregas
-| Reto          | Enlace        |
-| ------------- |--------------:|
-|Reto 0         | [Repositorio](https://github.com/Daferodriguez/Moviles2019/tree/master/Reto0) |
 
-Visita el repositorio de la materia: https://github.com/Daferodriguez/Moviles2019
+ Reto 0: [Repositorio](https://github.com/Daferodriguez/Moviles2019/tree/master/Reto0) 
+
+Visita el repositorio de la materia: <https://github.com/Daferodriguez/Moviles2019>
 
 ### Contáctame
 
