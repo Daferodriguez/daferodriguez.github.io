@@ -1,6 +1,14 @@
 ## David Felipe Rodríguez Rodríguez
 
-Soy estudiante de la Universidad Nacional de Colombia; actualmente culminanro el pregrado en Ingeniería de Sistemas y Computación.
+### Perfil
+
+Soy estudiante de la Universidad Nacional de Colombia; actualmente culminanro el pregrado en Ingeniería de Sistemas y Computación. Con intereses en desarrollo web y desarrollo móvil.
+
+### Lenguajes
+  - Ruby
+  - Java
+  - Python
+  - Javascript
 
 Correo: dafrodriguezro@unal.edu.co
 
