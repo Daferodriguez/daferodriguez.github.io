@@ -16,8 +16,9 @@ Soy estudiante de la Universidad Nacional de Colombia; actualmente culminanro el
   
 ### Entregas
 
- Reto 0: [Repositorio](https://github.com/Daferodriguez/Moviles2019/tree/master/Reto0) 
+Reto 0: [Enlace](https://github.com/Daferodriguez/Moviles2019/tree/master/Reto0) 
 
+### Repositorio de la materia
 Visita el repositorio de la materia: <https://github.com/Daferodriguez/Moviles2019>
 
 ### Contáctame
