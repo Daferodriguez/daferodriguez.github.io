@@ -21,6 +21,7 @@ Soy estudiante de la Universidad Nacional de Colombia; actualmente culminanro el
   - Reto 2: [Enlace](https://github.com/Daferodriguez/Moviles2019/tree/master/Reto2)
   - Reto 3: [Enlace](https://github.com/Daferodriguez/Moviles2019/tree/master/Reto3/Tictactoe)
   - Reto 4: [Enlace](https://github.com/Daferodriguez/Moviles2019/tree/master/Reto4/Tictactoe)
+  - Reto 5: [Enlace](https://github.com/Daferodriguez/Moviles2019/tree/master/Reto5/Tictactoe)
 
 ### Repositorio de la materia
 Visita el repositorio de la materia: <https://github.com/Daferodriguez/Moviles2019>
